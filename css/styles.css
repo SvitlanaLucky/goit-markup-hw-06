@@ -870,10 +870,10 @@ img {
 
 .modal-form-check:checked + .modal-form-check-desc::before {
     background-color: var(--accent-color);
-    background-image: url("/images/vector/vector\(1\).svg");
+    background-image: url("../images/vector/vector-fake.svg");
     background-repeat: no-repeat;
     background-position: center;
-    border-color: transparent;
+    border-color: transparent;    
 }
 
 
