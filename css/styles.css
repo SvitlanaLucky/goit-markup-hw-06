@@ -467,11 +467,6 @@ img {
 .pidval {
     display: flex;
     align-items: baseline;
-    min-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 .footer-address {   
@@ -521,7 +516,6 @@ img {
     display: flex;
     justify-content: center;
     gap: 10px;
-    margin-right: 93px;
 }
 
 .footer-social-link {
